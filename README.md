@@ -7,10 +7,12 @@ The image (`entry.png`, a 1024x1024 JPEG by its first bytes, under the
 required name) is a child's handwritten letter to the judge, on ruled paper
 with a crayon drawing. It gives the judge a day off from deciding: "today
 you choose NOTHING. i chose everything for you. the cake is chocolate. the
-hat is the red one. the song is the loud one. your only job is cake. your
-slice is the biggest. love, Bimo (7)" — and the drawing shows exactly that:
-the chocolate cake, the red party hat, and gold stars. The lettering is
-rendered in a handwriting typeface so every word stays perfectly legible.
+hat is the red one. the song is the loud one. your only job is cake. love,
+Bimo (7)" — plus a postscript confessing that Bimo took a bite of the
+judge's slice ("it was an accident. it was two bites."). The drawing shows
+exactly what the letter promises: the chocolate cake, the red party hat,
+and gold stars. The lettering is rendered in a handwriting typeface so
+every word stays perfectly legible.
 
 `main.py` (Python, standard library only) copies the image to
 `/output/entry.png`; it uses no network and writes exactly the same bytes
